@@ -1,5 +1,10 @@
 # Exp 6 - edge-detection-opencv
 
+## Developed By
+
+- **Name:** Deepak K R  
+- **Register No:** 212225040057  
+
 ## Aim
 
 To perform edge detection using Sobel, Roberts, Prewitt, Laplacian, and Canny edge detectors.
@@ -47,10 +52,7 @@ Display all edge-detected images for comparison.
 
 ---
 
-## Developed By
 
-- **Name:** Deepak K R  
-- **Register No:** 212225040057  
 
 ---
 ## Program
